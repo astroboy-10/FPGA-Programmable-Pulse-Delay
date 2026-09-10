@@ -1,0 +1,30 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+
+.vivado/
+.cache/
+.hw/
+.hw_emu/
+.ip_user_files/
+.sim/
+.gen/
+.runs/
+.Xil/
+
+# Vivado project user files
+*.xpr.user
+*.xsim.user
+
+# Generated bitstreams and debug files
+*.bit
+*.bin
+*.ltx
+*.dcp
+
+# Temporary/editor files
+.vscode/
+.idea/
+*.swp
+*~
